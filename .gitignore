@@ -1,6 +1,10 @@
 # Key
 data/api_key.txt
 data/aws_settings.txt
+data/bdd_password.txt
+
+# Workspace
+kayak.code-Workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
